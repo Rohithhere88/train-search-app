@@ -16,8 +16,8 @@
 ### Backend
 
 cd main
-mvn clean package
-java -jar target/train-search-1.0.0.jar
+mvn spring-boot:run
+
 
 ### Frontend
 
